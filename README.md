@@ -1,8 +1,3 @@
-Com certeza\! Um bom `README.md` é a porta de entrada do projeto e essencial para qualquer outro desenvolvedor (ou para você mesmo no futuro).
-
-Criei um documento completo e bem estruturado. Você pode simplesmente copiar e colar este conteúdo em um novo arquivo chamado `README.md` na pasta raiz da sua solução (`BlogSolution`).
-
------
 
 # Blog Simples API
 
