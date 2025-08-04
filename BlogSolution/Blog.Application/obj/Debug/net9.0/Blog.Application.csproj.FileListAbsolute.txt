@@ -1,0 +1,16 @@
+C:\ProjetoTeste\blog\BlogSolution\Blog.Application\bin\Debug\net9.0\Blog.Application.deps.json
+C:\ProjetoTeste\blog\BlogSolution\Blog.Application\bin\Debug\net9.0\Blog.Application.dll
+C:\ProjetoTeste\blog\BlogSolution\Blog.Application\bin\Debug\net9.0\Blog.Application.pdb
+C:\ProjetoTeste\blog\BlogSolution\Blog.Application\bin\Debug\net9.0\Blog.Core.dll
+C:\ProjetoTeste\blog\BlogSolution\Blog.Application\bin\Debug\net9.0\Blog.Core.pdb
+C:\ProjetoTeste\blog\BlogSolution\Blog.Application\obj\Debug\net9.0\Blog.Application.csproj.AssemblyReference.cache
+C:\ProjetoTeste\blog\BlogSolution\Blog.Application\obj\Debug\net9.0\Blog.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetoTeste\blog\BlogSolution\Blog.Application\obj\Debug\net9.0\Blog.Application.AssemblyInfoInputs.cache
+C:\ProjetoTeste\blog\BlogSolution\Blog.Application\obj\Debug\net9.0\Blog.Application.AssemblyInfo.cs
+C:\ProjetoTeste\blog\BlogSolution\Blog.Application\obj\Debug\net9.0\Blog.Application.csproj.CoreCompileInputs.cache
+C:\ProjetoTeste\blog\BlogSolution\Blog.Application\obj\Debug\net9.0\Blog.Application.sourcelink.json
+C:\ProjetoTeste\blog\BlogSolution\Blog.Application\obj\Debug\net9.0\Blog.App.C7D7B2EA.Up2Date
+C:\ProjetoTeste\blog\BlogSolution\Blog.Application\obj\Debug\net9.0\Blog.Application.dll
+C:\ProjetoTeste\blog\BlogSolution\Blog.Application\obj\Debug\net9.0\refint\Blog.Application.dll
+C:\ProjetoTeste\blog\BlogSolution\Blog.Application\obj\Debug\net9.0\Blog.Application.pdb
+C:\ProjetoTeste\blog\BlogSolution\Blog.Application\obj\Debug\net9.0\ref\Blog.Application.dll
